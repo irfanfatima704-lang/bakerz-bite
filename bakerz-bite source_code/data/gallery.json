@@ -1,0 +1,86 @@
+[
+  {
+    "id": "g1",
+    "title": "Royal Celebration Cake",
+    "group": "celebration-cakes",
+    "icon": "cake",
+    "caption": "A tiered celebration cake finished with gold details."
+  },
+  {
+    "id": "g2",
+    "title": "Cupcake Garden",
+    "group": "celebration-cakes",
+    "icon": "cupcake",
+    "caption": "Swirled cupcakes in blush and cream."
+  },
+  {
+    "id": "g3",
+    "title": "Butter Croissants",
+    "group": "pastries",
+    "icon": "croissant",
+    "caption": "Golden laminated croissants fresh from the oven."
+  },
+  {
+    "id": "g4",
+    "title": "Fresh Fruit Tart",
+    "group": "pastries",
+    "icon": "tart",
+    "caption": "Custard and glazed fruit in a crisp shell."
+  },
+  {
+    "id": "g5",
+    "title": "Cookie Jar Favourites",
+    "group": "cookies-desserts",
+    "icon": "cookie",
+    "caption": "Chunky chocolate chip cookies."
+  },
+  {
+    "id": "g6",
+    "title": "Glazed Donuts",
+    "group": "cookies-desserts",
+    "icon": "donut",
+    "caption": "Pink and chocolate glazed rings."
+  },
+  {
+    "id": "g7",
+    "title": "Hand-Stretched Pizza",
+    "group": "pizza-savoury",
+    "icon": "pizza",
+    "caption": "Bubbling mozzarella on a thin crisp base."
+  },
+  {
+    "id": "g8",
+    "title": "Rustic Loaves",
+    "group": "pizza-savoury",
+    "icon": "bread",
+    "caption": "Slow-fermented sourdough with a crackling crust."
+  },
+  {
+    "id": "g9",
+    "title": "Latte Art Morning",
+    "group": "coffee-drinks",
+    "icon": "coffee",
+    "caption": "Handcrafted lattes with silky foam."
+  },
+  {
+    "id": "g10",
+    "title": "Cosy Café Corner",
+    "group": "interior",
+    "icon": "interior",
+    "caption": "A warm, welcoming corner for tea and cake. Illustration."
+  },
+  {
+    "id": "g11",
+    "title": "Dough & Whisk",
+    "group": "process",
+    "icon": "process",
+    "caption": "Baking begins early with real butter and quality flour. Illustration."
+  },
+  {
+    "id": "g12",
+    "title": "Festive Gift Box",
+    "group": "seasonal",
+    "icon": "seasonal",
+    "caption": "A seasonal box wrapped in ribbon."
+  }
+]

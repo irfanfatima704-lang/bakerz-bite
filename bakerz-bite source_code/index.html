@@ -1,0 +1,223 @@
+R<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bakerz Bite - premium bakery and café. Where Smiles Are Served Daily.">
+  <title>Bakerz Bite | A Little Sweetness, Made Beautiful</title>
+  <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..600&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/premium.css">
+  <script>
+    try { if (localStorage.getItem('bb-theme') === 'dark') document.documentElement.classList.add('dark'); } catch (e) {}
+    try {
+      if (!sessionStorage.getItem('bb-intro-done')) {
+        document.documentElement.classList.add('intro-pending');
+        setTimeout(function () { if (!document.getElementById('bb-intro')) document.documentElement.classList.remove('intro-pending'); }, 6000);
+      }
+    } catch (e) {}
+  </script>
+</head>
+<body data-page="home" data-nav="index.html">
+<div class="app-shell">
+  <div id="bb-symbols"></div>
+  <a href="#main" class="skip-link">Skip to content</a>
+  <div class="floating-bg" id="bb-float" aria-hidden="true"></div>
+  <header class="bb-nav" id="site-header"></header>
+  <main id="main" class="app-main">
+    <div class="announce-bar"><span data-icon="sparkles"></span> Free delivery on orders of Rs. 5,000 or more · New: dietary filters &amp; a wishlist for your favourites</div>
+
+    <section class="hero" aria-labelledby="hero-title" data-hero>
+      <div class="hero-media" aria-hidden="true">
+        <img class="hero-poster" src="images/hero/hero-poster.jpg" alt="" width="1920" height="1080" decoding="async" fetchpriority="high">
+        <span class="hero-overlay"></span>
+      </div>
+      <div class="container hero-content">
+        <div class="hero-copy">
+          <p class="eyebrow">Artisan Bakery &amp; Café</p>
+          <h1 class="hero-title" id="hero-title">A Little Sweetness, <span class="gold-text">Made Beautiful</span></h1>
+          <p class="hero-sub">Handcrafted delights for every beautiful moment.</p>
+          <div class="d-flex flex-wrap gap-3">
+            <a href="html/menu.html" class="btn-gold">Explore Our Menu</a>
+            <a href="html/our-story.html" class="btn-ghost-gold">Discover Our Story</a>
+          </div>
+        <ul class="hero-facts" aria-label="Why Bakerz Bite">
+          <li><strong>300+</strong><span>baked treats</span></li>
+          <li><strong>Daily</strong><span>baked fresh in-store</span></li>
+         <li><strong>Real</strong><span>butter &amp; cream</span></li>
+     </ul>
+        </div>
+        <div class="hero-visual" data-hero-visual>
+          <div class="hero-arch" role="img" aria-label="Photos from Bakerz Bite: our café, a celebration cake, butter croissants, cupcakes and glazed donuts and fresh-baked cookies">
+            <figure class="hero-slide is-active" data-caption="Our café, in morning light" style="--focus:50% 60%"><img src="images/products/stock-cafe.jpg" alt="" width="900" height="990" fetchpriority="high" decoding="async"></figure>
+            <figure class="hero-slide" data-caption="Celebration cakes" style="--focus:50% 45%"><img src="images/products/stock-cake.jpg" alt="" width="900" height="990" decoding="async"></figure>
+            <figure class="hero-slide" data-caption="Butter croissants, still warm" style="--focus:50% 40%"><img src="images/products/stock-pastry.jpg" alt="" width="735" height="981" decoding="async"></figure>
+            <figure class="hero-slide" data-caption="Cupcakes, frosted by hand" style="--focus:50% 55%"><img src="images/products/stock-cupcake.jpg" alt="" width="900" height="990" decoding="async"></figure>
+            <figure class="hero-slide" data-caption="Glazed donuts" style="--focus:50% 50%"><img src="images/products/stock-donut.jpg" alt="" width="736" height="977" decoding="async"></figure>
+            <figure class="hero-slide" data-caption="Fresh-baked cookies" style="--focus:50% 50%"><img src="images/products/cookie.jpg" alt="" width="900" height="1260" decoding="async"></figure>
+            <p class="hero-caption" data-hero-caption>Our café, in morning light</p>
+          </div>
+          <div class="hero-badge" aria-hidden="true">
+            <svg class="ring" viewBox="0 0 120 120"><defs><path id="ringpath" d="M60,60 m-47,0 a47,47 0 1,1 94,0 a47,47 0 1,1 -94,0"/></defs><text><textPath href="#ringpath" textLength="292" lengthAdjust="spacing">Small batches ✦ Shaped by hand ✦ Made to share ✦ </textPath></text></svg>
+            <svg class="core" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.6 7.4L22 12l-7.4 2.6L12 22l-2.6-7.4L2 12l7.4-2.6z"/></svg>
+          </div>
+          <div class="hero-mascot" aria-hidden="true">
+          <svg viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="150" cy="326" rx="86" ry="10" fill="#765044" opacity=".14"/>
+            <path d="M78 196h144l-20 106q-2 12-14 12h-76q-12 0-14-12z" fill="#D99587"/>
+            <path d="M110 196l8 118M150 196v118M190 196l-8 118" stroke="#F2C4B5" stroke-width="9" stroke-linecap="round" opacity=".8"/>
+            <path d="M70 200q80 22 160 0" fill="none" stroke="#B06A59" stroke-width="5" stroke-linecap="round" opacity=".55"/>
+            <path d="M52 200Q30 150 84 138Q76 100 122 96Q128 66 150 54Q172 66 178 96Q224 100 216 138Q270 150 248 200Q150 224 52 200Z" fill="#FFF8F2" stroke="#C98272" stroke-width="4" stroke-linejoin="round"/>
+            <path d="M150 54Q158 40 172 36" fill="none" stroke="#8A7A4A" stroke-width="4" stroke-linecap="round"/>
+            <circle cx="148" cy="46" r="17" fill="#B06A59"/><circle cx="142" cy="40" r="5" fill="#fff" opacity=".7"/>
+            <circle cx="112" cy="160" r="8" fill="#765044"/><circle cx="109" cy="157" r="2.6" fill="#fff"/>
+            <circle cx="188" cy="160" r="8" fill="#765044"/><circle cx="185" cy="157" r="2.6" fill="#fff"/>
+            <ellipse cx="92" cy="180" rx="13" ry="8" fill="#F0B3A3" opacity=".7"/>
+            <ellipse cx="208" cy="180" rx="13" ry="8" fill="#F0B3A3" opacity=".7"/>
+            <path d="M138 176q6 11 12 2q6 9 12-2" fill="none" stroke="#765044" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+            <g stroke-width="5" stroke-linecap="round">
+              <path d="M104 118l7 -6" stroke="#D8B779"/><path d="M186 112l7 5" stroke="#F2C4B5"/><path d="M146 108l2 -8" stroke="#D8B779"/>
+              <path d="M72 168l-5 -6" stroke="#D8B779"/><path d="M230 166l6 -5" stroke="#D8B779"/>
+            </g>
+            <path d="M262 70l5 13l13 5l-13 5l-5 13l-5 -13l-13 -5l13 -5z" fill="#D8B779"/>
+            <path d="M34 110l4 10l10 4l-10 4l-4 10l-4 -10l-10 -4l10 -4z" fill="#F0B3A3"/>
+            <path d="M246 250l3 8l8 3l-8 3l-3 8l-3 -8l-8 -3l8 -3z" fill="#D8B779"/>
+          </svg>
+        </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container section">
+      <div class="text-center mx-auto welcome-intro" data-reveal>
+        <p class="eyebrow">Welcome to Bakerz Bite</p>
+        <h2 class="section-title">Baked fresh, made with care</h2>
+        <p class="lead-text">Pick a favourite, make it yours, and we will take care of the rest.</p>
+      </div>
+      <div class="row g-4 mt-2">
+        <div class="col-12 col-sm-6 col-lg-3"><div class="value-card panel-glass h-100" data-reveal><span class="value-icon" data-icon="leaf"></span><h3>Fresh Every Day</h3><p>Baked in small batches so every bite tastes fresh.</p></div></div>
+        <div class="col-12 col-sm-6 col-lg-3"><div class="value-card panel-glass h-100" data-reveal style="transition-delay:80ms"><span class="value-icon" data-icon="award"></span><h3>Quality Ingredients</h3><p>Flour, cocoa, fruit and nuts chosen for flavour, with every ingredient listed on the product page.</p></div></div>
+        <div class="col-12 col-sm-6 col-lg-3"><div class="value-card panel-glass h-100" data-reveal style="transition-delay:160ms"><span class="value-icon" data-icon="hand"></span><h3>Handcrafted</h3><p>Shaped, filled and finished by hand with attention to detail.</p></div></div>
+        <div class="col-12 col-sm-6 col-lg-3"><div class="value-card panel-glass h-100" data-reveal style="transition-delay:240ms"><span class="value-icon" data-icon="heart"></span><h3>Made for You</h3><p>Customer satisfaction guides every recipe and every order.</p></div></div>
+      </div>
+    </section>
+
+    <section class="container section-tight">
+      <div class="text-center mb-4" data-reveal><p class="eyebrow">Shop by category</p><h2 class="section-title">Our Collections</h2></div>
+      <div class="category-grid" id="home-categories"></div>
+      <div class="text-center mt-4"><a href="html/menu.html" class="btn-ghost-gold">View all categories</a></div>
+    </section>
+
+    <section class="container section">
+      <div class="text-center mb-4" data-reveal><p class="eyebrow">Customer favourites</p><h2 class="section-title">Best Sellers</h2></div>
+      <div id="home-best"></div>
+      <div class="text-center mt-4"><a href="html/menu.html" class="btn-ghost-gold">View full menu</a></div>
+    </section>
+
+    <section class="container section-tight">
+      <div class="text-center mb-4" data-reveal><p class="eyebrow">Just baked</p><h2 class="section-title">New Arrivals</h2></div>
+      <div id="home-new"></div>
+    </section>
+
+    <section class="container section">
+      <div class="text-center mb-4" data-reveal><p class="eyebrow">Handpicked</p><h2 class="section-title">Featured Treats</h2></div>
+      <div id="home-featured"></div>
+    </section>
+
+  <section class="container section-tight how-it-works">
+  <div class="text-center mb-4" data-reveal><p class="eyebrow">Simple &amp; sweet</p><h2 class="section-title">How Ordering Works</h2></div>
+  <div class="row g-4">
+    <div class="col-12 col-md-4"><div class="how-step" data-reveal><span class="step-num">1</span><h3>Pick your treats</h3><p>Browse cakes, pastries, cookies and more, and use the filters to find your favourites.</p></div></div>
+    <div class="col-12 col-md-4"><div class="how-step" data-reveal style="transition-delay:80ms"><span class="step-num">2</span><h3>Make it yours</h3><p>Choose a size, frosting and a message for custom cakes, then add everything to your bag.</p></div></div>
+    <div class="col-12 col-md-4"><div class="how-step" data-reveal style="transition-delay:160ms"><span class="step-num">3</span><h3>Pick up or delivery</h3><p>Choose pick-up or delivery to your city, then check out in a few taps.</p></div></div>
+  </div>
+</section>
+
+    <section class="container section-tight">
+      <div class="text-center" data-reveal>
+        <p class="eyebrow">Eat with confidence</p>
+        <h2 class="section-title">Find treats that suit you</h2>
+        <p class="lead-text mx-auto" style="max-width:620px">Filter the menu by dietary need, and tap the heart on anything you love to save it for later.</p>
+        <div class="diet-quick">
+          <a class="chip-opt" href="html/menu.html?diet=egg-free">Egg-free</a>
+          <a class="chip-opt" href="html/menu.html?diet=nut-free">Nut-free</a>
+          <a class="chip-opt" href="html/menu.html?diet=dairy-free">Dairy-free</a>
+          <a class="chip-opt" href="html/menu.html?diet=vegan">Vegan</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="container section">
+      <div class="custom-cta" data-reveal>
+        <div class="row align-items-center g-4">
+          <div class="col-12 col-md-7">
+            <p class="eyebrow eyebrow-light">Custom cakes</p>
+            <h2 class="section-title section-title-light">Design a cake for your celebration</h2>
+            <p>Choose a size, frosting and decorations, then add a message of up to 40 characters. The price updates as you go.</p>
+            <div class="d-flex flex-wrap gap-3">
+              <button type="button" class="btn-gold" data-open-product="cake-royal-velvet">Start Customizing</button>
+              <a href="html/cakes.html" class="btn-soft">Browse Cakes</a>
+            </div>
+          </div>
+          <div class="col-12 col-md-5 text-center"><span class="float-slow d-inline-block" data-art="cake" data-size="200"></span></div>
+        </div>
+      </div>
+    </section>
+
+    <div id="bb-react-treat-finder">
+      <div class="container section-tight"><div class="panel-glass bb-treat-finder"><p class="eyebrow">A little help choosing</p><h2 class="section-title">Find Your Bakery Mood</h2><p>Loading the interactive treat finder…</p></div></div>
+    </div>
+
+    <section class="container section">
+      <div class="text-center mb-4" data-reveal><p class="eyebrow">Special offers</p><h2 class="section-title">Seasonal Offers &amp; Sweet Deals</h2></div>
+      <div class="row g-4" id="home-offers"></div>
+      <div class="text-center mt-4"><a href="html/offers.html" class="btn-ghost-gold">See all offers</a></div>
+    </section>
+
+    <section class="container section-tight">
+      <div class="text-center mb-4" data-reveal><p class="eyebrow">Gallery</p><h2 class="section-title">A Taste of Our World</h2></div>
+      <div class="gallery-grid gallery-preview" id="home-gallery"></div>
+      <div class="text-center mt-4"><a href="html/gallery.html" class="btn-ghost-gold">Open the gallery</a></div>
+    </section>
+
+    <section class="container section">
+      <div class="text-center mb-4" data-reveal>
+        <p class="eyebrow">Kind words</p><h2 class="section-title">What Guests Say</h2>
+      </div>
+      <div class="review-carousel" id="review-carousel" role="region" aria-roledescription="carousel" aria-label="Customer reviews"></div>
+      <div class="text-center mt-4"><a href="html/reviews.html" class="btn-ghost-gold">View All Reviews</a></div>
+    </section>
+
+    <section class="container section-tight">
+      <div class="newsletter panel-glass" data-reveal>
+        <h2 class="section-title">Sweet news, sometimes</h2>
+        <p>Get news, offers and new bakes in your inbox.</p>
+        <form class="newsletter-form" data-form="newsletter" novalidate>
+          <label for="nl-email" class="visually-hidden">Email address</label>
+          <input id="nl-email" type="email" class="form-control bb-input" placeholder="you@example.com" autocomplete="email">
+          <button type="submit" class="btn-gold">Subscribe</button>
+        </form>
+        <p class="field-error" data-news-msg role="alert" hidden></p>
+      </div>
+    </section>
+  </main>
+  <footer class="bb-footer" id="site-footer"></footer>
+  <div id="bb-overlays"></div>
+  <div class="bb-ticker" id="bb-ticker"></div>
+</div>
+<script src="js/data.js"></script>
+<script src="js/icons.js"></script>
+<script src="js/script.js"></script>
+<script src="js/premium.js"></script>
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="js/react-treat-finder.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="js/jquery-enhancements.js"></script>
+</body>
+</html>

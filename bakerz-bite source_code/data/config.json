@@ -1,0 +1,37 @@
+{
+  "usePhotos": true,
+  "freeDeliveryAt": 5000,
+  "deliveryFee": 250,
+  "contact": {
+    "email": "bakerzbite@gmail.com",
+    "phone": "+92 300 1234567",
+    "address": "12 Main Boulevard, Gulberg, Lahore, Pakistan",
+    "hours": [
+      [
+        "Monday – Friday",
+        "8:00 AM – 10:00 PM"
+      ],
+      [
+        "Saturday – Sunday",
+        "9:00 AM – 11:00 PM"
+      ]
+    ]
+  },
+  "social": [
+    {
+      "name": "Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "name": "Facebook",
+      "icon": "facebook",
+      "url": "https://www.facebook.com/"
+    },
+    {
+      "name": "Whatsapp",
+      "icon": "whatsapp",
+      "url": "https://wa.me/923001234567"
+    }
+  ]
+}

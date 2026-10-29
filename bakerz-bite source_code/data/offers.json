@@ -1,0 +1,82 @@
+[
+  {
+    "id": "o1",
+    "title": "Celebration Cake Deal",
+    "tag": "Save 15%",
+    "icon": "cake",
+    "desc": "Order any 8-inch or 10-inch cake and enjoy a special celebration price.",
+    "terms": "15% off 8-inch and 10-inch cakes. Applied automatically in the cart. Pre-order recommended.",
+    "cta": "Shop Cakes",
+    "to": "/category/cakes"
+  },
+  {
+    "id": "o2",
+    "title": "Pastry Pair",
+    "tag": "10% Off Pairs",
+    "icon": "pastry",
+    "desc": "Pick any two pastries for a discounted pair, perfect for sharing.",
+    "terms": "10% off every pair of pastries. Applied automatically in the cart.",
+    "cta": "Browse Pastries",
+    "to": "/category/pastries"
+  },
+  {
+    "id": "o3",
+    "title": "Coffee & Cookie Combo",
+    "tag": "Café Combo",
+    "icon": "coffee",
+    "desc": "Any coffee plus a freshly baked cookie for a cosy afternoon break.",
+    "terms": "20% off one cookie for every coffee. Applied automatically in the cart.",
+    "cta": "Order Coffee",
+    "to": "/category/coffee"
+  },
+  {
+    "id": "o4",
+    "title": "Free Delivery over Rs. 5,000",
+    "tag": "Free Delivery",
+    "icon": "tray",
+    "desc": "Spend Rs. 5,000 or more and we waive the delivery fee.",
+    "terms": "Standard delivery fee is Rs. 250 for orders under Rs. 5,000 (after discounts). Applied automatically in the cart.",
+    "cta": "Start Shopping",
+    "to": "/menu"
+  },
+  {
+    "id": "o5",
+    "title": "Seasonal Rose & Pistachio",
+    "tag": "Seasonal",
+    "icon": "tart",
+    "desc": "A limited seasonal collection of rose and pistachio treats.",
+    "terms": "Available while seasonal items last.",
+    "cta": "See Seasonal",
+    "to": "/menu"
+  },
+  {
+    "id": "o6",
+    "title": "Pizza Night Special",
+    "tag": "Hot Deal",
+    "icon": "pizza",
+    "desc": "Go large and save on your pizza night.",
+    "terms": "10% off large (14 in) pizzas. Applied automatically in the cart.",
+    "cta": "Order Pizza",
+    "to": "/category/pizza"
+  },
+  {
+    "id": "o7",
+    "title": "Tea-Time Bundle",
+    "tag": "Bundle",
+    "icon": "tea",
+    "desc": "Pair any pastry with a hot tea or coffee from the café menu for an easy afternoon treat.",
+    "terms": "Choose your pastry and drink separately; prices are shown on each product.",
+    "cta": "Browse Pastries",
+    "to": "/category/pastries"
+  },
+  {
+    "id": "o8",
+    "title": "Gift Box Collection",
+    "tag": "Gifting",
+    "icon": "seasonal",
+    "desc": "Branded mugs, glasses and gift bags that make a thoughtful present alongside a box of cookies.",
+    "terms": "Merchandise availability is shown on each product.",
+    "cta": "Shop Merchandise",
+    "to": "/category/merchandise"
+  }
+]

@@ -1,0 +1,1052 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog name="Bakerz Bite" source="data/products.json">
+  <product id="cake-royal-velvet">
+    <name>Royal Velvet Celebration Cake</name>
+    <cat>cakes</cat>
+    <desc>Three layers of cocoa-kissed red velvet with silky cream cheese frosting.</desc>
+    <price>3200</price>
+    <oldPrice>3600</oldPrice>
+    <rating>4.9</rating>
+    <reviews>214</reviews>
+    <badge>Best Seller</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Cocoa</ingredient>
+      <ingredient>Buttermilk</ingredient>
+      <ingredient>Cream cheese</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Eggs</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cake-choc-truffle">
+    <name>Chocolate Truffle Cake</name>
+    <cat>cakes</cat>
+    <desc>Deep dark chocolate sponge layered with truffle cream and glossy ganache.</desc>
+    <price>2800</price>
+    <rating>4.8</rating>
+    <reviews>187</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Dark chocolate</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Eggs</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cake-vanilla-dream">
+    <name>Vanilla Bean Dream Cake</name>
+    <cat>cakes</cat>
+    <desc>Light vanilla bean sponge with whipped cream and a soft golden finish.</desc>
+    <price>2500</price>
+    <rating>4.7</rating>
+    <reviews>132</reviews>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Vanilla beans</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Eggs</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cake-strawberry">
+    <name>Strawberry Cream Cake</name>
+    <cat>cakes</cat>
+    <desc>Fluffy sponge, fresh strawberry compote and billowy cream.</desc>
+    <price>2900</price>
+    <oldPrice>3200</oldPrice>
+    <rating>4.8</rating>
+    <reviews>156</reviews>
+    <badge>Sale</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Strawberries</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Eggs</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cake-lotus">
+    <name>Lotus Caramel Cake</name>
+    <cat>cakes</cat>
+    <desc>Spiced biscuit crumb, caramel cream and a golden drizzle.</desc>
+    <price>3400</price>
+    <rating>4.9</rating>
+    <reviews>41</reviews>
+    <badge>New</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Spiced biscuits</ingredient>
+      <ingredient>Caramel</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Eggs</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cake-rose-pistachio">
+    <name>Rose Pistachio Cake</name>
+    <cat>cakes</cat>
+    <desc>Fragrant rose sponge with pistachio cream and dried petals.</desc>
+    <price>3600</price>
+    <rating>4.8</rating>
+    <reviews>63</reviews>
+    <badge>Seasonal</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Pistachios</ingredient>
+      <ingredient>Rose water</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Eggs</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+      <allergen>Tree nuts</allergen>
+    </allergens>
+  </product>
+  <product id="cup-red-velvet">
+    <name>Red Velvet Cupcake</name>
+    <cat>cupcakes</cat>
+    <desc>Tender red velvet crowned with a cream cheese swirl.</desc>
+    <price>350</price>
+    <rating>4.8</rating>
+    <reviews>98</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Cocoa</ingredient>
+      <ingredient>Buttermilk</ingredient>
+      <ingredient>Cream cheese</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cup-vanilla-sprinkle">
+    <name>Vanilla Sprinkle Cupcake</name>
+    <cat>cupcakes</cat>
+    <desc>Classic vanilla cupcake with buttercream and rainbow sprinkles.</desc>
+    <price>300</price>
+    <rating>4.6</rating>
+    <reviews>74</reviews>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Vanilla</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Sprinkles</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cup-choc-fudge">
+    <name>Double Chocolate Cupcake</name>
+    <cat>cupcakes</cat>
+    <desc>Rich chocolate crumb with fudge frosting and a cocoa dusting.</desc>
+    <price>380</price>
+    <rating>4.9</rating>
+    <reviews>120</reviews>
+    <badge>Best Seller</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Cocoa</ingredient>
+      <ingredient>Dark chocolate</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cup-lemon-berry">
+    <name>Lemon Berry Cupcake</name>
+    <cat>cupcakes</cat>
+    <desc>Zesty lemon cake with whipped cream and a fresh berry.</desc>
+    <price>360</price>
+    <rating>4.5</rating>
+    <reviews>36</reviews>
+    <badge>New</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Lemon</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Berries</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="past-eclair">
+    <name>Chocolate Éclair</name>
+    <cat>pastries</cat>
+    <desc>Crisp choux filled with vanilla custard and topped with glossy chocolate.</desc>
+    <price>420</price>
+    <rating>4.7</rating>
+    <reviews>88</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Eggs</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Dark chocolate</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="past-danish">
+    <name>Berry Danish</name>
+    <cat>pastries</cat>
+    <desc>Golden laminated pastry with cream filling and berry jam.</desc>
+    <price>450</price>
+    <rating>4.6</rating>
+    <reviews>52</reviews>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Berry jam</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="past-mille-feuille">
+    <name>Mille-Feuille</name>
+    <cat>pastries</cat>
+    <desc>Layers of crisp puff pastry and vanilla cream with a feathered glaze.</desc>
+    <price>520</price>
+    <rating>4.8</rating>
+    <reviews>47</reviews>
+    <badge>Featured</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Vanilla</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="past-cinnamon-roll">
+    <name>Cinnamon Roll</name>
+    <cat>pastries</cat>
+    <desc>Soft spiralled roll with brown sugar cinnamon and vanilla glaze.</desc>
+    <price>400</price>
+    <oldPrice>450</oldPrice>
+    <rating>4.7</rating>
+    <reviews>109</reviews>
+    <badge>Sale</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Cinnamon</ingredient>
+      <ingredient>Brown sugar</ingredient>
+      <ingredient>Milk</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cook-choc-chip">
+    <name>Chocolate Chip Cookie</name>
+    <cat>cookies</cat>
+    <desc>Chewy centre, crisp edge and pools of dark chocolate.</desc>
+    <price>280</price>
+    <rating>4.9</rating>
+    <reviews>201</reviews>
+    <badge>Best Seller</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Brown sugar</ingredient>
+      <ingredient>Chocolate chips</ingredient>
+      <ingredient>Eggs</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cook-oatmeal-raisin">
+    <name>Oatmeal Raisin Cookie</name>
+    <cat>cookies</cat>
+    <desc>Hearty oats, plump raisins and a hint of cinnamon.</desc>
+    <price>260</price>
+    <rating>4.4</rating>
+    <reviews>45</reviews>
+    <ingredients>
+      <ingredient>Oats</ingredient>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Raisins</ingredient>
+      <ingredient>Cinnamon</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cook-double-choc">
+    <name>Double Chocolate Cookie</name>
+    <cat>cookies</cat>
+    <desc>Cocoa dough packed with chocolate chunks.</desc>
+    <price>300</price>
+    <rating>4.8</rating>
+    <reviews>94</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Cocoa</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Dark chocolate</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="cook-pistachio">
+    <name>Pistachio Shortbread</name>
+    <cat>cookies</cat>
+    <desc>Crumbly butter shortbread with crushed pistachios.</desc>
+    <price>320</price>
+    <rating>4.6</rating>
+    <reviews>28</reviews>
+    <badge>New</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Pistachios</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Tree nuts</allergen>
+    </allergens>
+  </product>
+  <product id="tart-lemon">
+    <name>Lemon Meringue Tart</name>
+    <cat>pies-tarts</cat>
+    <desc>Tangy lemon curd in a buttery shell with toasted meringue.</desc>
+    <price>650</price>
+    <rating>4.7</rating>
+    <reviews>64</reviews>
+    <badge>Featured</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Lemon</ingredient>
+      <ingredient>Eggs</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="tart-fruit">
+    <name>Fresh Fruit Tart</name>
+    <cat>pies-tarts</cat>
+    <desc>Custard cream and glazed seasonal fruit in a crisp shell.</desc>
+    <price>700</price>
+    <rating>4.8</rating>
+    <reviews>71</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Custard</ingredient>
+      <ingredient>Seasonal fruit</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="pie-apple">
+    <name>Cinnamon Apple Pie</name>
+    <cat>pies-tarts</cat>
+    <desc>Spiced apples under a golden lattice crust.</desc>
+    <price>1450</price>
+    <oldPrice>1650</oldPrice>
+    <rating>4.7</rating>
+    <reviews>58</reviews>
+    <badge>Sale</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Apples</ingredient>
+      <ingredient>Cinnamon</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="tart-choc-ganache">
+    <name>Chocolate Ganache Tart</name>
+    <cat>pies-tarts</cat>
+    <desc>Silky dark chocolate ganache in a cocoa shortcrust.</desc>
+    <price>720</price>
+    <rating>4.9</rating>
+    <reviews>49</reviews>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Dark chocolate</ingredient>
+      <ingredient>Cream</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="croi-butter">
+    <name>Classic Butter Croissant</name>
+    <cat>croissants</cat>
+    <desc>Layers of real butter, baked until deeply golden and flaky.</desc>
+    <price>380</price>
+    <rating>4.9</rating>
+    <reviews>245</reviews>
+    <badge>Best Seller</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Yeast</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="croi-almond">
+    <name>Almond Croissant</name>
+    <cat>croissants</cat>
+    <desc>Twice-baked croissant with almond cream and toasted flakes.</desc>
+    <price>480</price>
+    <rating>4.8</rating>
+    <reviews>117</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Almonds</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Eggs</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+      <allergen>Tree nuts</allergen>
+    </allergens>
+  </product>
+  <product id="croi-chocolate">
+    <name>Pain au Chocolat</name>
+    <cat>croissants</cat>
+    <desc>Buttery layers wrapped around two bars of dark chocolate.</desc>
+    <price>450</price>
+    <rating>4.8</rating>
+    <reviews>139</reviews>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Dark chocolate</ingredient>
+      <ingredient>Yeast</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="croi-cheese">
+    <name>Cheese &amp; Herb Croissant</name>
+    <cat>croissants</cat>
+    <desc>Savoury croissant with melted cheese and garden herbs.</desc>
+    <price>460</price>
+    <rating>4.6</rating>
+    <reviews>33</reviews>
+    <badge>New</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Cheese</ingredient>
+      <ingredient>Herbs</ingredient>
+      <ingredient>Yeast</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="bread-sourdough">
+    <name>Rustic Sourdough Loaf</name>
+    <cat>breads</cat>
+    <desc>Slow-fermented loaf with a crackling crust and open crumb.</desc>
+    <price>650</price>
+    <rating>4.8</rating>
+    <reviews>86</reviews>
+    <badge>Featured</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Water</ingredient>
+      <ingredient>Sourdough starter</ingredient>
+      <ingredient>Salt</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+    </allergens>
+  </product>
+  <product id="bread-milk-bun">
+    <name>Soft Milk Buns (4 pcs)</name>
+    <cat>breads</cat>
+    <desc>Pillowy buns brushed with butter, perfect for sandwiches.</desc>
+    <price>420</price>
+    <rating>4.6</rating>
+    <reviews>57</reviews>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Yeast</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="bread-garlic">
+    <name>Garlic Herb Loaf</name>
+    <cat>breads</cat>
+    <desc>Warm baguette brushed with garlic butter and herbs.</desc>
+    <price>480</price>
+    <rating>4.7</rating>
+    <reviews>66</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Butter</ingredient>
+      <ingredient>Garlic</ingredient>
+      <ingredient>Parsley</ingredient>
+      <ingredient>Yeast</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="bread-multigrain">
+    <name>Multigrain Loaf</name>
+    <cat>breads</cat>
+    <desc>Seeded wholesome loaf with quality flour and grains.</desc>
+    <price>580</price>
+    <rating>4.5</rating>
+    <reviews>31</reviews>
+    <ingredients>
+      <ingredient>Whole wheat flour</ingredient>
+      <ingredient>Seeds</ingredient>
+      <ingredient>Oats</ingredient>
+      <ingredient>Yeast</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Sesame</allergen>
+    </allergens>
+  </product>
+  <product id="don-glazed">
+    <name>Classic Glazed Donut</name>
+    <cat>donuts</cat>
+    <desc>Light, airy ring with a sheer vanilla glaze.</desc>
+    <price>250</price>
+    <rating>4.6</rating>
+    <reviews>112</reviews>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Yeast</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Butter</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="don-choc-sprinkle">
+    <name>Chocolate Sprinkle Donut</name>
+    <cat>donuts</cat>
+    <desc>Chocolate-glazed ring finished with rainbow sprinkles.</desc>
+    <price>300</price>
+    <rating>4.8</rating>
+    <reviews>143</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Cocoa</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Sprinkles</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="don-strawberry">
+    <name>Strawberry Frosted Donut</name>
+    <cat>donuts</cat>
+    <desc>Pink strawberry icing over a soft ring donut.</desc>
+    <price>300</price>
+    <rating>4.5</rating>
+    <reviews>60</reviews>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Strawberry</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="don-custard">
+    <name>Custard Filled Donut</name>
+    <cat>donuts</cat>
+    <desc>Soft round donut with vanilla custard filling.</desc>
+    <price>340</price>
+    <rating>4.7</rating>
+    <reviews>77</reviews>
+    <badge>New</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Eggs</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Vanilla</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+      <allergen>Eggs</allergen>
+    </allergens>
+  </product>
+  <product id="pizza-margherita">
+    <name>Margherita Pizza</name>
+    <cat>pizza</cat>
+    <desc>Tomato sauce, fresh mozzarella and basil on a thin crisp base.</desc>
+    <price>1100</price>
+    <rating>4.8</rating>
+    <reviews>190</reviews>
+    <badge>Best Seller</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Tomato</ingredient>
+      <ingredient>Mozzarella</ingredient>
+      <ingredient>Basil</ingredient>
+      <ingredient>Olive oil</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="pizza-chicken-tikka">
+    <name>Chicken Tikka Pizza</name>
+    <cat>pizza</cat>
+    <desc>Spiced chicken, onions and peppers under melted cheese.</desc>
+    <price>1350</price>
+    <rating>4.7</rating>
+    <reviews>162</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Chicken</ingredient>
+      <ingredient>Spices</ingredient>
+      <ingredient>Mozzarella</ingredient>
+      <ingredient>Peppers</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="pizza-veggie">
+    <name>Garden Veggie Pizza</name>
+    <cat>pizza</cat>
+    <desc>Mushrooms, peppers, olives and sweetcorn with mozzarella.</desc>
+    <price>1200</price>
+    <oldPrice>1350</oldPrice>
+    <rating>4.5</rating>
+    <reviews>71</reviews>
+    <badge>Sale</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Mushrooms</ingredient>
+      <ingredient>Peppers</ingredient>
+      <ingredient>Olives</ingredient>
+      <ingredient>Mozzarella</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="pizza-pepperoni">
+    <name>Pepperoni Feast Pizza</name>
+    <cat>pizza</cat>
+    <desc>Generous pepperoni slices over bubbling cheese.</desc>
+    <price>1450</price>
+    <rating>4.6</rating>
+    <reviews>84</reviews>
+    <badge>New</badge>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Pepperoni</ingredient>
+      <ingredient>Mozzarella</ingredient>
+      <ingredient>Tomato</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Gluten</allergen>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="hot-chocolate">
+    <name>Velvet Hot Chocolate</name>
+    <cat>hot-drinks</cat>
+    <desc>Melted dark chocolate whisked with steamed milk and cream.</desc>
+    <price>480</price>
+    <rating>4.8</rating>
+    <reviews>102</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Milk</ingredient>
+      <ingredient>Dark chocolate</ingredient>
+      <ingredient>Cream</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="hot-chai">
+    <name>Spiced Masala Chai</name>
+    <cat>hot-drinks</cat>
+    <desc>Black tea simmered with cardamom, ginger and milk.</desc>
+    <price>320</price>
+    <rating>4.7</rating>
+    <reviews>128</reviews>
+    <ingredients>
+      <ingredient>Black tea</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Cardamom</ingredient>
+      <ingredient>Ginger</ingredient>
+      <ingredient>Sugar</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="hot-caramel-milk">
+    <name>Salted Caramel Steamer</name>
+    <cat>hot-drinks</cat>
+    <desc>Steamed milk with caramel and a pinch of sea salt.</desc>
+    <price>450</price>
+    <rating>4.5</rating>
+    <reviews>39</reviews>
+    <badge>Seasonal</badge>
+    <ingredients>
+      <ingredient>Milk</ingredient>
+      <ingredient>Caramel</ingredient>
+      <ingredient>Sea salt</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="coffee-latte">
+    <name>Caffè Latte</name>
+    <cat>coffee</cat>
+    <desc>Smooth espresso with silky steamed milk.</desc>
+    <price>450</price>
+    <rating>4.7</rating>
+    <reviews>156</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Espresso</ingredient>
+      <ingredient>Milk</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="coffee-cappuccino">
+    <name>Cappuccino</name>
+    <cat>coffee</cat>
+    <desc>Equal parts espresso, steamed milk and velvety foam.</desc>
+    <price>430</price>
+    <rating>4.6</rating>
+    <reviews>121</reviews>
+    <ingredients>
+      <ingredient>Espresso</ingredient>
+      <ingredient>Milk</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="coffee-americano">
+    <name>Americano</name>
+    <cat>coffee</cat>
+    <desc>Double espresso lengthened with hot water.</desc>
+    <price>350</price>
+    <rating>4.4</rating>
+    <reviews>49</reviews>
+    <ingredients>
+      <ingredient>Espresso</ingredient>
+      <ingredient>Water</ingredient>
+    </ingredients>
+  </product>
+  <product id="coffee-caramel-macchiato">
+    <name>Caramel Macchiato</name>
+    <cat>coffee</cat>
+    <desc>Vanilla milk marked with espresso and caramel drizzle.</desc>
+    <price>520</price>
+    <rating>4.8</rating>
+    <reviews>90</reviews>
+    <badge>New</badge>
+    <ingredients>
+      <ingredient>Espresso</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Vanilla</ingredient>
+      <ingredient>Caramel</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="tea-earl-grey">
+    <name>Earl Grey</name>
+    <cat>tea</cat>
+    <desc>Black tea scented with bergamot.</desc>
+    <price>300</price>
+    <rating>4.5</rating>
+    <reviews>42</reviews>
+    <ingredients>
+      <ingredient>Black tea</ingredient>
+      <ingredient>Bergamot</ingredient>
+    </ingredients>
+  </product>
+  <product id="tea-jasmine-green">
+    <name>Jasmine Green Tea</name>
+    <cat>tea</cat>
+    <desc>Delicate green tea with jasmine blossoms.</desc>
+    <price>320</price>
+    <rating>4.6</rating>
+    <reviews>37</reviews>
+    <ingredients>
+      <ingredient>Green tea</ingredient>
+      <ingredient>Jasmine</ingredient>
+    </ingredients>
+  </product>
+  <product id="tea-kashmiri">
+    <name>Kashmiri Pink Tea</name>
+    <cat>tea</cat>
+    <desc>Creamy pink tea with pistachio and cardamom.</desc>
+    <price>420</price>
+    <rating>4.7</rating>
+    <reviews>68</reviews>
+    <badge>Seasonal</badge>
+    <ingredients>
+      <ingredient>Tea leaves</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Pistachio</ingredient>
+      <ingredient>Cardamom</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+      <allergen>Tree nuts</allergen>
+    </allergens>
+  </product>
+  <product id="cold-strawberry-shake">
+    <name>Strawberry Cream Shake</name>
+    <cat>cold-drinks</cat>
+    <desc>Thick strawberry milkshake topped with whipped cream.</desc>
+    <price>550</price>
+    <rating>4.7</rating>
+    <reviews>95</reviews>
+    <badge>Popular</badge>
+    <ingredients>
+      <ingredient>Milk</ingredient>
+      <ingredient>Strawberries</ingredient>
+      <ingredient>Ice cream</ingredient>
+      <ingredient>Cream</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="cold-lemon-mint">
+    <name>Lemon Mint Cooler</name>
+    <cat>cold-drinks</cat>
+    <desc>Fresh lemon, mint and crushed ice.</desc>
+    <price>350</price>
+    <rating>4.6</rating>
+    <reviews>80</reviews>
+    <ingredients>
+      <ingredient>Lemon</ingredient>
+      <ingredient>Mint</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Ice</ingredient>
+    </ingredients>
+  </product>
+  <product id="cold-choc-shake">
+    <name>Chocolate Fudge Shake</name>
+    <cat>cold-drinks</cat>
+    <desc>Chocolate ice cream blended with fudge and milk.</desc>
+    <price>580</price>
+    <oldPrice>640</oldPrice>
+    <rating>4.8</rating>
+    <reviews>118</reviews>
+    <badge>Sale</badge>
+    <ingredients>
+      <ingredient>Milk</ingredient>
+      <ingredient>Chocolate ice cream</ingredient>
+      <ingredient>Fudge</ingredient>
+    </ingredients>
+    <allergens>
+      <allergen>Dairy</allergen>
+    </allergens>
+  </product>
+  <product id="merch-mug">
+    <name>Bakerz Bite Signature Mug</name>
+    <cat>merchandise</cat>
+    <desc>Glossy ceramic mug with the Bakerz Bite crest.</desc>
+    <price>1200</price>
+    <rating>4.8</rating>
+    <reviews>26</reviews>
+    <badge>Featured</badge>
+    <ingredients>
+      <ingredient>Glazed ceramic</ingredient>
+    </ingredients>
+  </product>
+  <product id="merch-tote">
+    <name>Canvas Bakery Tote Bag</name>
+    <cat>merchandise</cat>
+    <desc>Sturdy cream canvas tote for your daily bakes.</desc>
+    <price>1500</price>
+    <rating>4.7</rating>
+    <reviews>18</reviews>
+    <ingredients>
+      <ingredient>Cotton canvas</ingredient>
+    </ingredients>
+  </product>
+  <product id="merch-glass">
+    <name>Bakerz Bite Drinking Glass</name>
+    <cat>merchandise</cat>
+    <desc>Clear glass tumbler with a gold crest.</desc>
+    <price>950</price>
+    <rating>4.6</rating>
+    <reviews>15</reviews>
+    <badge>New</badge>
+    <ingredients>
+      <ingredient>Glass</ingredient>
+    </ingredients>
+  </product>
+  <product id="merch-tray">
+    <name>Wooden Serving Tray</name>
+    <cat>merchandise</cat>
+    <desc>Handled wooden tray for cakes and tea.</desc>
+    <price>2200</price>
+    <oldPrice>2500</oldPrice>
+    <rating>4.8</rating>
+    <reviews>12</reviews>
+    <badge>Sale</badge>
+    <ingredients>
+      <ingredient>Seasoned wood</ingredient>
+    </ingredients>
+  </product>
+  <product id="merch-gift-bag">
+    <name>Gift Bag Set (3 pcs)</name>
+    <cat>merchandise</cat>
+    <desc>Three kraft gift bags with ribbon.</desc>
+    <price>650</price>
+    <rating>4.5</rating>
+    <reviews>9</reviews>
+    <ingredients>
+      <ingredient>Kraft paper</ingredient>
+      <ingredient>Ribbon</ingredient>
+    </ingredients>
+  </product>
+</catalog>

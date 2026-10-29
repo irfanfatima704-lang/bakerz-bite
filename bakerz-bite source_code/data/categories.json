@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "cakes",
+    "name": "Cakes",
+    "icon": "cake",
+    "desc": "Celebration cakes, layered and finished by hand. Choose your size, frosting and decorations."
+  },
+  {
+    "slug": "cupcakes",
+    "name": "Cupcakes",
+    "icon": "cupcake",
+    "desc": "Soft, swirled and perfectly portioned little cakes for every sweet craving."
+  },
+  {
+    "slug": "pastries",
+    "name": "Pastries",
+    "icon": "pastry",
+    "desc": "Flaky, creamy and golden artisan pastries baked fresh each morning."
+  },
+  {
+    "slug": "cookies",
+    "name": "Cookies",
+    "icon": "cookie",
+    "desc": "Chewy, buttery cookies with crisp edges and generous mix-ins."
+  },
+  {
+    "slug": "pies-tarts",
+    "name": "Pies & Tarts",
+    "icon": "tart",
+    "desc": "Buttery shortcrust shells filled with seasonal fruit, custard and chocolate."
+  },
+  {
+    "slug": "croissants",
+    "name": "Croissants",
+    "icon": "croissant",
+    "desc": "Laminated butter croissants with a shatter-crisp crust and tender layers."
+  },
+  {
+    "slug": "breads",
+    "name": "Breads",
+    "icon": "bread",
+    "desc": "Rustic loaves and soft rolls made with quality flour and slow fermentation."
+  },
+  {
+    "slug": "donuts",
+    "name": "Donuts",
+    "icon": "donut",
+    "desc": "Pillowy donuts finished with glazes, sprinkles and rich fillings."
+  },
+  {
+    "slug": "pizza",
+    "name": "Pizza",
+    "icon": "pizza",
+    "desc": "Hand-stretched savoury pizzas with your choice of size and extra toppings."
+  },
+  {
+    "slug": "hot-drinks",
+    "name": "Hot Drinks",
+    "icon": "hotdrink",
+    "desc": "Comforting cocoa, chai and warm beverages to pair with something sweet."
+  },
+  {
+    "slug": "coffee",
+    "name": "Coffee",
+    "icon": "coffee",
+    "desc": "Handcrafted espresso drinks made from carefully roasted beans."
+  },
+  {
+    "slug": "tea",
+    "name": "Tea",
+    "icon": "tea",
+    "desc": "Fragrant loose-leaf teas, brewed to order."
+  },
+  {
+    "slug": "cold-drinks",
+    "name": "Cold Drinks",
+    "icon": "colddrink",
+    "desc": "Chilled shakes, coolers and iced refreshers for warm afternoons."
+  },
+  {
+    "slug": "merchandise",
+    "name": "Merchandise",
+    "icon": "mug",
+    "desc": "Bakerz Bite branded mugs, bags, glasses and trays."
+  }
+]

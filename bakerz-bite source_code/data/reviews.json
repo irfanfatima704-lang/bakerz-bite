@@ -1,0 +1,98 @@
+[
+  {
+    "id": "r1",
+    "name": "Ayesha Khan",
+    "cat": "cakes",
+    "rating": 5,
+    "date": "2026-09-12",
+    "text": "The royal velvet cake was soft, rich and beautifully decorated. It was the centrepiece of our family dinner."
+  },
+  {
+    "id": "r2",
+    "name": "Bilal Ahmed",
+    "cat": "croissants",
+    "rating": 5,
+    "date": "2026-09-08",
+    "text": "Flaky, buttery layers and a perfect golden crust. The best croissant I have had in a long time."
+  },
+  {
+    "id": "r3",
+    "name": "Sara Malik",
+    "cat": "cupcakes",
+    "rating": 4,
+    "date": "2026-08-29",
+    "text": "Lovely cupcakes with a smooth frosting. I would enjoy them slightly sweeter, but they looked gorgeous."
+  },
+  {
+    "id": "r4",
+    "name": "Hamza Raza",
+    "cat": "pizza",
+    "rating": 5,
+    "date": "2026-08-21",
+    "text": "Crisp base, generous toppings and fast to customise. The extra cheese option was a great touch."
+  },
+  {
+    "id": "r5",
+    "name": "Fatima Noor",
+    "cat": "coffee",
+    "rating": 4,
+    "date": "2026-08-15",
+    "text": "A smooth latte with lovely foam. A cosy place to sit with a book and a pastry."
+  },
+  {
+    "id": "r6",
+    "name": "Usman Tariq",
+    "cat": "cookies",
+    "rating": 5,
+    "date": "2026-08-02",
+    "text": "Chewy centre and crisp edges. The chocolate chip cookies disappeared in minutes."
+  },
+  {
+    "id": "r7",
+    "name": "Mariam Siddiqui",
+    "cat": "pies-tarts",
+    "rating": 5,
+    "date": "2026-07-26",
+    "text": "The fruit tart was fresh and not overly sweet. The shell was perfectly crisp."
+  },
+  {
+    "id": "r8",
+    "name": "Zain Abbas",
+    "cat": "breads",
+    "rating": 4,
+    "date": "2026-07-19",
+    "text": "Excellent sourdough with a crackling crust. Great with soup on a cool evening."
+  },
+  {
+    "id": "r9",
+    "name": "Hira Yousuf",
+    "cat": "donuts",
+    "rating": 3,
+    "date": "2026-07-10",
+    "text": "Soft donuts with fun toppings. The glaze was a little thin on mine, but the flavour was good."
+  },
+  {
+    "id": "r10",
+    "name": "Danish Qureshi",
+    "cat": "tea",
+    "rating": 5,
+    "date": "2026-06-30",
+    "text": "The Kashmiri pink tea was creamy and fragrant. A perfect companion to a warm pastry."
+  },
+  {
+    "id": "r11",
+    "name": "Noor Fatima",
+    "cat": "merchandise",
+    "rating": 4,
+    "date": "2026-06-21",
+    "text": "The signature mug is sturdy and looks elegant on my desk. A lovely gift idea."
+  },
+  {
+    "id": "r12",
+    "name": "Imran Sheikh",
+    "cat": "cold-drinks",
+    "rating": 5,
+    "date": "2026-06-14",
+    "text": "The chocolate fudge shake was thick, cold and indulgent. Easily my favourite drink on the menu."
+  }
+]
